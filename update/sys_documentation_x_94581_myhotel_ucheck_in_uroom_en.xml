@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="uroom" label="uRoom" language="en" table="x_94581_myhotel_ucheck_in">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>uroom</element>
+            <help/>
+            <hint/>
+            <label>uRoom</label>
+            <language>en</language>
+            <name>x_94581_myhotel_ucheck_in</name>
+            <plural>uRooms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-07 04:09:30</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>0657dc7ddb3b3200b78ff8fdbf9619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>uRoom</sys_name>
+            <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
+            <sys_update_name>sys_documentation_x_94581_myhotel_ucheck_in_uroom_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-07 04:09:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="uCheck-In" max_length="40" name="x_94581_myhotel_ucheck_in" type="collection">
+        <element label="uComments" max_length="400" name="ucomments" type="string"/>
+        <element label="uGuest" max_length="32" name="uguest" reference="sys_user" reference_qual="javascript: gs.getUserID;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="uRoom" max_length="32" name="uroom" reference="x_94581_myhotel_uroom" type="reference"/>
+        <index name="index">
+            <element name="uroom"/>
+        </index>
+        <index name="index2">
+            <element name="uguest"/>
+        </index>
+    </element>
+</database>

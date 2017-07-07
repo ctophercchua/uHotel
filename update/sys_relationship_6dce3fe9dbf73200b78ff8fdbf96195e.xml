@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_94581_myhotel_uroom</basic_apply_to>
+        <basic_query_from>x_94581_myhotel_uroom</basic_query_from>
+        <insert_callback/>
+        <name>uRooms on the same floor</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+	current.addQuery('ufloor',parent.ufloor);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-07 02:25:49</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6dce3fe9dbf73200b78ff8fdbf96195e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>uRooms on the same floor</sys_name>
+        <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
+        <sys_update_name>sys_relationship_6dce3fe9dbf73200b78ff8fdbf96195e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-07 02:27:29</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=6dce3fe9dbf73200b78ff8fdbf96195e"/>
+</record_update>

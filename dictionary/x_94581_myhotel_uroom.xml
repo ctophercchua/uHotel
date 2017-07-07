@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="uRoom" max_length="40" name="x_94581_myhotel_uroom" type="collection">
+        <element label="uFloor" max_length="40" name="ufloor" type="string"/>
+        <element display="true" label="uNumber" max_length="40" name="unumber" type="integer"/>
+    </element>
+</database>
