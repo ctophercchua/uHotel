@@ -10,7 +10,7 @@
         <sys_class_name>sys_m2m</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-07 12:59:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7e6052fddb3f3200b78ff8fdbf96194e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_94581_myhotel_m2m_uguests_ureservations</sys_name>

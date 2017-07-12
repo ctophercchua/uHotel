@@ -31,6 +31,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	current.ufloor = current.unumber.substring(0,1);
+	//update from dev34018
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -40,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6ff1cafedb777200b78ff8fdbf961907</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Auto Populate the Floor Field</sys_name>
         <sys_overrides/>
         <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
@@ -49,7 +50,7 @@
         <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
         <sys_update_name>sys_script_6ff1cafedb777200b78ff8fdbf961907</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-10 14:49:56</sys_updated_on>
+        <sys_updated_on>2017-07-12 07:17:00</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

@@ -52,8 +52,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-07 11:16:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>8ce8f971db3f3200b78ff8fdbf961960</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>38f27e9b4f33320040b24ea18110c7e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>uMembership</sys_name>
         <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
@@ -61,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
         <sys_update_name>sys_dictionary_x_94581_myhotel_uguests_umembership</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-07 11:16:10</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-12 07:20:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

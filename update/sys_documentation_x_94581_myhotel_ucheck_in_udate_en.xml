@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-10 15:05:11</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>332a4636dbb77200b78ff8fdbf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>uDate</sys_name>
