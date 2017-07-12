@@ -5,69 +5,97 @@
             <element>uroom</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-07 06:38:32</sys_created_on>
-            <sys_id>89797471dbbb3200b78ff8fdbf961934</sys_id>
+            <sys_created_on>2017-07-10 15:05:11</sys_created_on>
+            <sys_id>8c3a4636dbb77200b78ff8fdbf9619cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_94581_myhotel_ucheck_in" sys_domain="global" view="Default view">48c778b9db7b3200b78ff8fdbf9619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-07 06:38:32</sys_updated_on>
+            <sys_updated_on>2017-07-10 15:05:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>uroom.ufloor</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-10 15:05:11</sys_created_on>
+            <sys_id>003a4636dbb77200b78ff8fdbf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_94581_myhotel_ucheck_in" sys_domain="global" view="Default view">48c778b9db7b3200b78ff8fdbf9619ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-10 15:05:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-07 06:38:32</sys_created_on>
-            <sys_id>45797471dbbb3200b78ff8fdbf961935</sys_id>
+            <sys_created_on>2017-07-10 15:05:11</sys_created_on>
+            <sys_id>803a4636dbb77200b78ff8fdbf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_94581_myhotel_ucheck_in" sys_domain="global" view="Default view">48c778b9db7b3200b78ff8fdbf9619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-07 06:38:32</sys_updated_on>
+            <sys_updated_on>2017-07-10 15:05:11</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>uguest</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-07 06:38:32</sys_created_on>
-            <sys_id>c5797471dbbb3200b78ff8fdbf961935</sys_id>
+            <sys_created_on>2017-07-10 15:05:11</sys_created_on>
+            <sys_id>043a4636dbb77200b78ff8fdbf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_94581_myhotel_ucheck_in" sys_domain="global" view="Default view">48c778b9db7b3200b78ff8fdbf9619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-07 06:38:32</sys_updated_on>
+            <sys_updated_on>2017-07-10 15:05:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>udate</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-10 15:05:11</sys_created_on>
+            <sys_id>843a4636dbb77200b78ff8fdbf9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_94581_myhotel_ucheck_in" sys_domain="global" view="Default view">48c778b9db7b3200b78ff8fdbf9619ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-10 15:05:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>3</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-07 06:38:32</sys_created_on>
-            <sys_id>49797471dbbb3200b78ff8fdbf961935</sys_id>
+            <sys_created_on>2017-07-10 15:05:11</sys_created_on>
+            <sys_id>083a4636dbb77200b78ff8fdbf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_94581_myhotel_ucheck_in" sys_domain="global" view="Default view">48c778b9db7b3200b78ff8fdbf9619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-07 06:38:32</sys_updated_on>
+            <sys_updated_on>2017-07-10 15:05:11</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ucomments</element>
-            <position>4</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-07 06:38:32</sys_created_on>
-            <sys_id>c9797471dbbb3200b78ff8fdbf961935</sys_id>
+            <sys_created_on>2017-07-10 15:05:11</sys_created_on>
+            <sys_id>883a4636dbb77200b78ff8fdbf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_94581_myhotel_ucheck_in" sys_domain="global" view="Default view">48c778b9db7b3200b78ff8fdbf9619ab</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-07 06:38:32</sys_updated_on>
+            <sys_updated_on>2017-07-10 15:05:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

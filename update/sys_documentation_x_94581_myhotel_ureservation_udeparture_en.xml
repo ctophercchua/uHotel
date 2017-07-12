@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="udeparture" label="uDeparture" language="en" table="x_94581_myhotel_ureservation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>udeparture</element>
+            <help/>
+            <hint/>
+            <label>uDeparture</label>
+            <language>en</language>
+            <name>x_94581_myhotel_ureservation</name>
+            <plural>uDepartures</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-07 12:54:48</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>b09f46bddb3f3200b78ff8fdbf9619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>uDeparture</sys_name>
+            <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
+            <sys_update_name>sys_documentation_x_94581_myhotel_ureservation_udeparture_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-07 12:54:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

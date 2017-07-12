@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="uReservation" max_length="40" name="x_94581_myhotel_ureservation" type="collection">
+        <element label="uArrival" max_length="40" name="uarrival" type="glide_date"/>
+        <element label="uDeparture" max_length="40" name="udeparture" type="glide_date"/>
+        <element label="uRoom" max_length="32" name="uroom" reference="x_94581_myhotel_uroom" type="reference"/>
+        <index name="index">
+            <element name="uroom"/>
+        </index>
+    </element>
+</database>
