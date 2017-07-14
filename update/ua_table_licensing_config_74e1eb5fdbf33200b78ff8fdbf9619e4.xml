@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-06 09:59:02</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>fdf2be9b4f33320040b24ea18110c78e</sys_id>
+        <sys_id>74e1eb5fdbf33200b78ff8fdbf9619e4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_94581_myhotel_uroom</sys_name>
         <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
-        <sys_update_name>ua_table_licensing_config_fdf2be9b4f33320040b24ea18110c78e</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_74e1eb5fdbf33200b78ff8fdbf9619e4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-07-06 09:59:02</sys_updated_on>
     </ua_table_licensing_config>

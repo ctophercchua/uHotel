@@ -3,7 +3,7 @@
     <element label="uCheck-In" max_length="40" name="x_94581_myhotel_ucheck_in" type="collection">
         <element label="uComments" max_length="400" name="ucomments" type="string"/>
         <element label="uDate" max_length="40" name="udate" type="glide_date"/>
-        <element label="uGuest" max_length="32" name="uguest" reference="x_94581_myhotel_uguests" type="reference"/>
+        <element dynamic_ref_qual="28b84588db400300b78ff8fdbf96197c" label="uGuest" max_length="32" name="uguest" reference="x_94581_myhotel_uguests" reference_qual="javascript:'sys_idIN'+x_94581_myhotel.guestWithReservation()" type="reference" use_reference_qualifier="dynamic"/>
         <element label="uRoom" max_length="32" name="uroom" reference="x_94581_myhotel_uroom" type="reference"/>
         <index name="index">
             <element name="uroom"/>

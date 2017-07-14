@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>ucomments</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-14 06:20:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_data_policy display_value="Must have a comment if date in past">b0073400db400300b78ff8fdbf9619e5</sys_data_policy>
+        <sys_id>0378b040db400300b78ff8fdbf96191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ucomments</sys_name>
+        <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
+        <sys_update_name>sys_data_policy_rule_0378b040db400300b78ff8fdbf96191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-14 06:20:54</sys_updated_on>
+        <table>x_94581_myhotel_ucheck_in</table>
+    </sys_data_policy_rule>
+</record_update>

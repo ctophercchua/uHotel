@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_94581_myhotel.SimpleSubtract</api_name>
+        <client_callable>false</client_callable>
+        <description>extending a script include -SimpleAdd;</description>
+        <name>SimpleSubtract</name>
+        <script><![CDATA[var SimpleSubtract = Class.create();
+SimpleSubtract.prototype = Object.extendsObject(SimpleAdd, {
+    
+	decrement: function(){
+		this.number--;
+		//gs.info(this.number);
+		return this;
+	},
+
+    type: 'SimpleSubtract'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-14 05:41:31</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e9cd6040db000300b78ff8fdbf961962</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SimpleSubtract</sys_name>
+        <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
+        <sys_update_name>sys_script_include_e9cd6040db000300b78ff8fdbf961962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-14 06:00:56</sys_updated_on>
+    </sys_script_include>
+</record_update>
