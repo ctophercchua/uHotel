@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ufloor</element>
-            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08622b97dbf33200b78ff8fdbf96195e</list_id>
+            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c4a62753db373200b78ff8fdbf9619e1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,8 +18,23 @@
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
+            <element>ufloor</element>
+            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c4a62753db373200b78ff8fdbf9619e1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-07 06:34:14</sys_created_on>
+            <sys_id>8e787831dbbb3200b78ff8fdbf96191f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-14 13:41:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
             <element>unumber</element>
-            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">08622b97dbf33200b78ff8fdbf96195e</list_id>
+            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c4a62753db373200b78ff8fdbf9619e1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -30,6 +45,21 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-12 10:47:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>unumber</element>
+            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c4a62753db373200b78ff8fdbf9619e1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-07 06:34:14</sys_created_on>
+            <sys_id>8a787831dbbb3200b78ff8fdbf961920</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-07-14 13:41:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -43,11 +73,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-12 11:06:01</sys_created_on>
+            <sys_created_on>2017-07-17 09:54:15</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c4a62753db373200b78ff8fdbf9619e1</sys_id>
+            <sys_id>e1264d81dbc00300b78ff8fdbf961994</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_94581_myhotel_uroom</sys_name>
             <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
@@ -56,8 +86,8 @@
             <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
             <sys_update_name>sys_ui_list_x_94581_myhotel_uroom_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-12 11:06:01</sys_updated_on>
-            <sys_user/>
+            <sys_updated_on>2017-07-17 09:54:15</sys_updated_on>
+            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>

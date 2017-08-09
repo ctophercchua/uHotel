@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>ufloor</element>
-            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="x_94581_myhotel_uroom" relationship="6dce3fe9dbf73200b78ff8fdbf96195e" sys_domain="global" view="Default view">35866b53db373200b78ff8fdbf96192a</list_id>
+            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="x_94581_myhotel_uroom" relationship="6dce3fe9dbf73200b78ff8fdbf96195e" sys_domain="global" view="Default view">e0626f9fdbf33200b78ff8fdbf9619b8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>unumber</element>
-            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="x_94581_myhotel_uroom" relationship="6dce3fe9dbf73200b78ff8fdbf96195e" sys_domain="global" view="Default view">35866b53db373200b78ff8fdbf96192a</list_id>
+            <list_id display_value="x_94581_myhotel_uroom" element="NULL" name="x_94581_myhotel_uroom" parent="x_94581_myhotel_uroom" relationship="6dce3fe9dbf73200b78ff8fdbf96195e" sys_domain="global" view="Default view">e0626f9fdbf33200b78ff8fdbf9619b8</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -44,7 +44,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-12 10:47:29</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e0626f9fdbf33200b78ff8fdbf9619b8</sys_id>

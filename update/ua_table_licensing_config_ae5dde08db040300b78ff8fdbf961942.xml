@@ -5,24 +5,24 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_94581_myhotel_ucheck_in</name>
+        <name>x_94581_myhotel_m2m_uguests_ureservations</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-06 09:47:10</sys_created_on>
+        <sys_created_on>2017-07-07 12:59:52</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c4e1eb5fdbf33200b78ff8fdbf961975</sys_id>
+        <sys_id>ae5dde08db040300b78ff8fdbf961942</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_94581_myhotel_ucheck_in</sys_name>
+        <sys_name>x_94581_myhotel_m2m_uguests_ureservations</sys_name>
         <sys_package display_value="myHotel" source="x_94581_myhotel">6469dc2ddb333200b78ff8fdbf961999</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="myHotel">6469dc2ddb333200b78ff8fdbf961999</sys_scope>
-        <sys_update_name>ua_table_licensing_config_c4e1eb5fdbf33200b78ff8fdbf961975</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_ae5dde08db040300b78ff8fdbf961942</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-06 09:47:10</sys_updated_on>
+        <sys_updated_on>2017-07-07 12:59:52</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
