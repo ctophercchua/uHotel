@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="uMaintenance" max_length="40" name="x_94581_myhotel_umaintenance" sizeclass="2" type="collection">
+        <element label="Room" max_length="32" name="u_room" reference="x_94581_myhotel_uroom" type="reference"/>
+    </element>
+</database>
